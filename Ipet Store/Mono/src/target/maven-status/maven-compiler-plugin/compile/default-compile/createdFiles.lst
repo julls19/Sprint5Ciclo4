@@ -1,0 +1,6 @@
+cco\deivisjoro\apirestg22\utilidades\Respuesta.class
+cco\deivisjoro\apirestg22\modelos\Producto.class
+cco\deivisjoro\apirestg22\bd\Conexion.class
+cco\deivisjoro\apirestg22\controladores\ProductoControlador.class
+cco\deivisjoro\apirestg22\dao\ProductoDAO.class
+cco\deivisjoro\apirestg22\Aplicacion.class
